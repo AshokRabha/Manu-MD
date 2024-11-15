@@ -28,11 +28,11 @@
 //*
 //base by Manul Official
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +919387196256
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * © 2024 ASHOK-MD-V7.
 // ⛥┌┤
 // */
 
