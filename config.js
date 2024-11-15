@@ -28,11 +28,11 @@
 //*
 //base by Manul Official
 //GitHub: @manulofficial7
-//WhatsApp: +94742274855
+//WhatsApp: +919387196256
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@ManulOfficialTech
 //   * Created By Github: manulofficial7.
 //   * Credit To Manul Official
-//   * © 2024 MANU-MD-V7.
+//   * © 2024 ASHOK-MD-V7.
 // ⛥┌┤
 // */
 
@@ -43,7 +43,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "", // Session id එක දාන්න " " ඕව මැදට creds.json දානව නම් ඕව වෙනස් කරන්න එපා...✓💚
+SESSION_ID: process.env.SESSION_ID || "Manu-MD&vA9jnCZD#kcp6CeJ8TEyST5BvN7rrRLltzhxKzPq4l-UqyDYeMjg", // Session id එක දාන්න " " ඕව මැදට creds.json දානව නම් ඕව වෙනස් කරන්න එපා...✓💚
 ALIVE_IMG : process.env.ALIVE_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
 ALIVE_MSG : process.env.ALIVE_MSG || "Put your alive messege",
 MENU_IMG : process.env.MENU_IMG || "https://telegra.ph/file/ef48cc8d2d26081f7d46a.jpg",
@@ -53,7 +53,7 @@ ANTI_STICKER: process.env.ANTI_STICKER || "true",  // ස්ටිකර් ද�
 WARN_COUNT : process.env.WARN_COUNT || "3",
 
 AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "true", //ස්ටේට්ස් විව් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
-AUTO_REACT: process.env.AUTO_REACT || "false", //ඔටෝ රිඇක්ට් වෙන්න් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
+AUTO_REACT: process.env.AUTO_REACT || "true", //ඔටෝ රිඇක්ට් වෙන්න් ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_BIO: process.env.AUTO_BIO || "true",
 READ_CMD: process.env.READ_CMD || "true", //කමාන්ඩ් Read වෙන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_VOICE: process.env.AUTO_VOICE || "true", //ඔටෝ වොයිස් යන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
@@ -64,7 +64,7 @@ OMDB_API_KEY: process.env.OMDB_API_KEY || "76cb7f39",
 ALWAYS_ONLINE : process.env.ALWAYS_ONLINE || "true", // හැම වෙලේම ඔන්ලයි ඉන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
 AUTO_TYPING : process.env.AUTO_TYPING || "false",
 AUTO_RECORDING : process.env.AUTO_RECORDING || "false", //ඔටෝ රෙකෝඩින් පෙන්නන්න ඕනි නම් "true" තියන්න, එපා නම් "false" දාන්න...✓💚
-OWNER_NUMBER : process.env.OWNER_NUMBER || "94742274855", // ඔයාගෙ නම්බරේ ඔතනට දාගන්න මුලට 94 තියෙන්න ඕනි 0 දාන්න එපා !
+OWNER_NUMBER : process.env.OWNER_NUMBER || "919387196256", // ඔයාගෙ නම්බරේ ඔතනට දාගන්න මුලට 94 තියෙන්න ඕනි 0 දාන්න එපා !
 DELCHAT : process.env.DELCHAT || "pm",
 FOOT : process.env.FOOT || "🧚‍♀️𝗠𝗔𝗡𝗨-𝗠𝗗-𝗩❼💗",
 MAX_SIZE: process.env.MAX_SIZE === undefined ? '1500': process.env.MAX_SIZE,
